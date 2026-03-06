@@ -1,16 +1,27 @@
-# React + Vite
+# Personal Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal blog homepage built with **React** and **Vite**, showcasing blog posts in a card layout with category filtering.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display blog posts with **title, image, short description, and date**  
+- **Category filter** to switch between post types (Tech, Travel, Food, etc.)  
+- **Responsive design** for mobile and desktop screens  
+- Smooth **UI layout** with hover effects on cards  
+- Built with **React Props & State** for dynamic rendering  
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React (Vite setup)  
+- HTML / CSS / JavaScript  
+- React Props & State  
+- Responsive Grid Layout  
+- Dynamic Filtering and Conditional Rendering  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Abdullah-Salah9/blog-app-.git
